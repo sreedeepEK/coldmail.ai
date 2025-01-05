@@ -1,3 +1,3 @@
 ## Coldmail.ai
 
-A simple cold mail generator using Langchain and Gradio inteface. Currently in built.
+A simple cold mail generator using Langchain and Gradio interface. Currently in built.
